@@ -16,6 +16,7 @@ const DescriptionPage: React.FC = () => {
             url: linkguy
         });
     }
+    // PREPARANDO PARA O BUILD
 
 
 
